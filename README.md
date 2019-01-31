@@ -2,7 +2,7 @@
 
 ## Pymaceuticals Inc
 
-![Laboratory](Images/Laboratory.jpg)
+![Laboratory](Images/laboratory.jpg)
 
 This challenge is based on an imaginary pharmaceutical company that specializes in drug-based, anti-cancer pharmaceuticals.
 
